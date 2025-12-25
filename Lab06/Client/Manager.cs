@@ -13,6 +13,5 @@ namespace Client
         private TcpClient dataClient;
         private StreamReader dataReader;
         private StreamWriter dataWriter;
-
     }
 }

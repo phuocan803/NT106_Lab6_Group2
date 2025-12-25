@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\",
+  "WorkspaceRootPath": "D:\\NT106_Lab6_Group2\\Lab06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|d:\\nt106_lab6_group2\\lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|d:\\nt106_lab6_group2\\lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\nt106_lab6_group2\\lab06\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +46,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeToolTip": "Server\\Dashboard.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwL4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:37:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Server\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:37:21.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Packet.cs",
+              "RelativeDocumentMoniker": "Client\\Packet.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Packet.cs",
+              "RelativeToolTip": "Client\\Packet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:36:20.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs",
+              "RelativeDocumentMoniker": "Client\\Email.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs",
+              "RelativeToolTip": "Client\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:36:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs [Design]",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs",
+              "RelativeDocumentMoniker": "Client\\Email.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs [Design]",
+              "RelativeToolTip": "Client\\Email.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:36:04.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CLient.cs",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\CLient.cs",
+              "RelativeDocumentMoniker": "Client\\CLient.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\CLient.cs",
+              "RelativeToolTip": "Client\\CLient.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewNMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:35:38.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CLient.cs [Design]",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\CLient.cs",
+              "RelativeDocumentMoniker": "Client\\CLient.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\CLient.cs [Design]",
+              "RelativeToolTip": "Client\\CLient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:27:41.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Manager.cs",
+              "RelativeDocumentMoniker": "Client\\Manager.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Manager.cs",
+              "RelativeToolTip": "Client\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:27:38.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\NT106_Lab6_Group2\\Lab06\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:25:37.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -42,109 +182,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:269642753:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 223,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Form1.cs",
-              "RelativeDocumentMoniker": "Server\\Form1.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Form1.cs [Design]",
-              "RelativeToolTip": "Server\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T07:28:18.246Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Packet.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Packet.cs",
-              "RelativeDocumentMoniker": "Server\\Packet.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Packet.cs",
-              "RelativeToolTip": "Server\\Packet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T07:17:52.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs [Design]",
-              "RelativeToolTip": "Server\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T07:17:58.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.Designer.cs",
-              "RelativeDocumentMoniker": "Server\\Dashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.Designer.cs",
-              "RelativeToolTip": "Server\\Dashboard.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T07:17:57.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
-              "RelativeToolTip": "Server\\Dashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T07:17:54.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Manager.cs",
-              "RelativeDocumentMoniker": "Server\\Manager.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Manager.cs",
-              "RelativeToolTip": "Server\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T07:17:53.204Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

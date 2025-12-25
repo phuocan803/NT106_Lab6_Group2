@@ -17,3 +17,14 @@ C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\De
 C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.exe
 C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.pdb
+D:\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.exe.config
+D:\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.exe
+D:\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.pdb
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.CLient.resources
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.Properties.Resources.resources
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.exe
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.pdb
+D:\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.exe.config

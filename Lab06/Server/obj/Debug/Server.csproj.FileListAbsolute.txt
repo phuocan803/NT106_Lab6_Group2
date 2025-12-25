@@ -17,3 +17,17 @@ C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\De
 C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.exe
 C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.pdb
+D:\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Server.exe.config
+D:\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Server.exe
+D:\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Server.pdb
+D:\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Newtonsoft.Json.dll
+D:\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Newtonsoft.Json.xml
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.Dashboard.resources
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.Properties.Resources.resources
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.Up2Date
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.exe
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.pdb
+D:\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.exe.config
