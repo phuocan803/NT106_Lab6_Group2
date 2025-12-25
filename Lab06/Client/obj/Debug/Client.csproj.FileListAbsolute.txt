@@ -1,0 +1,19 @@
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.exe.config
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.exe
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.pdb
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.exe
+D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.pdb
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.exe.config
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.exe
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\bin\Debug\Client.pdb
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.exe.config
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.exe
+C:\Users\bean\Documents\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Client\obj\Debug\Client.pdb

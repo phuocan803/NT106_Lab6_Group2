@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\email.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\email.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|c:\\users\\bean\\documents\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\server\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,15 +77,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Manager.cs",
-              "RelativeDocumentMoniker": "Server\\Manager.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Manager.cs",
-              "RelativeToolTip": "Server\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Form1.cs [Design]",
+              "RelativeToolTip": "Server\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:32:13.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T07:28:18.246Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -109,12 +96,24 @@
               "RelativeToolTip": "Client\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:31:59.169Z",
+              "WhenOpened": "2025-12-25T07:28:11.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:25:39.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Packet.cs",
               "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Packet.cs",
               "RelativeDocumentMoniker": "Server\\Packet.cs",
@@ -122,117 +121,63 @@
               "RelativeToolTip": "Server\\Packet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:29:44.633Z",
+              "WhenOpened": "2025-12-25T07:17:52.685Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Packet.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Packet.cs",
-              "RelativeDocumentMoniker": "Client\\Packet.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Packet.cs",
-              "RelativeToolTip": "Client\\Packet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:29:21.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Form1.cs",
-              "RelativeDocumentMoniker": "Server\\Form1.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Form1.cs [Design]",
-              "RelativeToolTip": "Server\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:28:20.908Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Email.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Email.Designer.cs",
-              "RelativeDocumentMoniker": "Client\\Email.Designer.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Email.Designer.cs",
-              "RelativeToolTip": "Client\\Email.Designer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowKIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:24:08.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs",
-              "RelativeDocumentMoniker": "Client\\Email.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs",
-              "RelativeToolTip": "Client\\Email.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:23:53.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Email.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs",
-              "RelativeDocumentMoniker": "Client\\Email.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Email.cs [Design]",
-              "RelativeToolTip": "Client\\Email.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:23:27.019Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Server\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:21:26.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Form1.cs [Design]",
-              "RelativeToolTip": "Client\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:21:25.131Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-25T07:17:58.922Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Server\\Dashboard.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:21:21.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T07:17:57.375Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeToolTip": "Server\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:17:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Manager.cs",
+              "RelativeDocumentMoniker": "Server\\Manager.cs",
+              "ToolTip": "C:\\Users\\bean\\Documents\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Manager.cs",
+              "RelativeToolTip": "Server\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:17:53.204Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

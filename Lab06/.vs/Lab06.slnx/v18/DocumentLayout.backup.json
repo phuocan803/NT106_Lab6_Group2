@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\Client\\",
+  "WorkspaceRootPath": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|d:\\studying\\hoc ky 3\\nt106 - network programing\\lab\\nt106.q14.2_group2\\client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5334254D-E833-4D67-8F5F-13F05184D1C8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|d:\\studying\\hoc ky 3\\nt106 - network programing\\lab\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|d:\\studying\\hoc ky 3\\nt106 - network programing\\lab\\nt106.q14.2_group2\\nt106_lab6_group2\\lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,14 +34,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\Client\\Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\Client\\Client\\Form1.cs [Design]",
-              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs*",
+              "RelativeToolTip": "Server\\Dashboard.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:17:11.299Z",
+              "WhenOpened": "2025-12-25T06:48:49.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "D:\\Studying\\Hoc Ky 3\\NT106 - Network Programing\\Lab\\NT106.Q14.2_GROUP2\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs [Design]*",
+              "RelativeToolTip": "Server\\Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:36:58.447Z",
               "EditorCaption": " [Design]"
             }
           ]
