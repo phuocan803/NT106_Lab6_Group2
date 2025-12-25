@@ -1,0 +1,114 @@
+# Build results
+
+bin/
+obj/
+out/
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+publish/
+artifacts/
+
+# Visual Studio / .NET
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vsconfig
+*.vssscc
+*.vspscc
+*.scc
+
+# IDEs
+
+# VS Code
+.vscode/
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover / DotTrace
+*.dotCover
+*.dotTrace
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Compiled files
+
+*.dll
+*.exe
+*.obj
+*.o
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.gch
+*.pch
+
+# Logs & temp
+*.log
+*.tlog
+*.cache
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Tests
+TestResults/
+
+# Database / local files
+
+*.mdb
+*.dbmdl
+
+# Secrets & sensitive configs
+
+# App settings (KHÔNG commit)
+**/appsettings.json
+#appsettings.*.json
+
+#!appsettings.example.json
+
+# Environment variables
+.env
+.env.*
+
+# Firebase / credentials
+firebase-service-key.json
+serviceAccountKey.json
+**/credentials.json
+key.json
+
+# Certificates & keys
+*.pfx
+*.pem
+*.crt
+*.key
+secret-key.json
