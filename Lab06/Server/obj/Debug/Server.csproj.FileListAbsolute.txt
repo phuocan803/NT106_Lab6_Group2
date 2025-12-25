@@ -7,3 +7,17 @@ D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab
 D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.exe
 D:\Studying\Hoc Ky 3\NT106 - Network Programing\Lab\NT106.Q14.2_GROUP2\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.pdb
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Server.exe.config
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Server.exe
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Server.pdb
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.Dashboard.resources
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.exe
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.pdb
+C:\Users\An\Documents\HK3_UIT\LTM_UIT\LabMangCBan_UIT\LabLapTrinhMangCanBan\NT106_Lab6_Group2\Lab06\Server\obj\Debug\Server.exe.config

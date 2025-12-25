@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\an\\documents\\hk3_uit\\ltm_uit\\labmangcban_uit\\lablaptrinhmangcanban\\nt106_lab6_group2\\lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\an\\documents\\hk3_uit\\ltm_uit\\labmangcban_uit\\lablaptrinhmangcanban\\nt106_lab6_group2\\lab06\\server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\an\\documents\\hk3_uit\\ltm_uit\\labmangcban_uit\\lablaptrinhmangcanban\\nt106_lab6_group2\\lab06\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|c:\\users\\an\\documents\\hk3_uit\\ltm_uit\\labmangcban_uit\\lablaptrinhmangcanban\\nt106_lab6_group2\\lab06\\server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE48BA-B5AF-43DD-8669-3675F26A0CD6}|Server\\Server.csproj|solutionrelative:server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:31:00.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Packet.cs",
+              "RelativeDocumentMoniker": "Server\\Packet.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Packet.cs",
+              "RelativeToolTip": "Server\\Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:12:51.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeToolTip": "Server\\Dashboard.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAmwLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:09:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Server\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\HK3_UIT\\LTM_UIT\\LabMangCBan_UIT\\LabLapTrinhMangCanBan\\NT106_Lab6_Group2\\Lab06\\Server\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Server\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:09:04.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

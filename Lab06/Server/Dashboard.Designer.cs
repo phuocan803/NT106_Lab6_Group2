@@ -29,18 +29,19 @@
         private void InitializeComponent()
         {
             this.groupBox_Connection = new System.Windows.Forms.GroupBox();
-            this.label_IP_Address = new System.Windows.Forms.Label();
-            this.textBox_IP_Address = new System.Windows.Forms.TextBox();
-            this.label_Port = new System.Windows.Forms.Label();
-            this.textBox_Port = new System.Windows.Forms.TextBox();
-            this.button_Listen = new System.Windows.Forms.Button();
             this.button_Stop = new System.Windows.Forms.Button();
+            this.button_Listen = new System.Windows.Forms.Button();
+            this.textBox_Port = new System.Windows.Forms.TextBox();
+            this.label_Port = new System.Windows.Forms.Label();
+            this.textBox_IP_Address = new System.Windows.Forms.TextBox();
+            this.label_IP_Address = new System.Windows.Forms.Label();
             this.groupBox_Log = new System.Windows.Forms.GroupBox();
             this.textBox_Log = new System.Windows.Forms.TextBox();
             this.groupBox_Broadcast = new System.Windows.Forms.GroupBox();
             this.button_Broadcast = new System.Windows.Forms.Button();
             this.textBox_Notification = new System.Windows.Forms.TextBox();
             this.label_Notification = new System.Windows.Forms.Label();
+            this.lbClients = new System.Windows.Forms.ListBox();
             this.groupBox_Connection.SuspendLayout();
             this.groupBox_Log.SuspendLayout();
             this.groupBox_Broadcast.SuspendLayout();
@@ -62,37 +63,14 @@
             this.groupBox_Connection.TabStop = false;
             this.groupBox_Connection.Text = "Connection";
             // 
-            // label_IP_Address
+            // button_Stop
             // 
-            this.label_IP_Address.AutoSize = true;
-            this.label_IP_Address.Location = new System.Drawing.Point(6, 23);
-            this.label_IP_Address.Name = "label_IP_Address";
-            this.label_IP_Address.Size = new System.Drawing.Size(81, 20);
-            this.label_IP_Address.TabIndex = 0;
-            this.label_IP_Address.Text = "IP Address:";
-            // 
-            // textBox_IP_Address
-            // 
-            this.textBox_IP_Address.Location = new System.Drawing.Point(103, 20);
-            this.textBox_IP_Address.Name = "textBox_IP_Address";
-            this.textBox_IP_Address.Size = new System.Drawing.Size(272, 27);
-            this.textBox_IP_Address.TabIndex = 1;
-            // 
-            // label_Port
-            // 
-            this.label_Port.AutoSize = true;
-            this.label_Port.Location = new System.Drawing.Point(6, 56);
-            this.label_Port.Name = "label_Port";
-            this.label_Port.Size = new System.Drawing.Size(38, 20);
-            this.label_Port.TabIndex = 2;
-            this.label_Port.Text = "Port:";
-            // 
-            // textBox_Port
-            // 
-            this.textBox_Port.Location = new System.Drawing.Point(103, 53);
-            this.textBox_Port.Name = "textBox_Port";
-            this.textBox_Port.Size = new System.Drawing.Size(272, 27);
-            this.textBox_Port.TabIndex = 3;
+            this.button_Stop.Location = new System.Drawing.Point(399, 53);
+            this.button_Stop.Name = "button_Stop";
+            this.button_Stop.Size = new System.Drawing.Size(116, 27);
+            this.button_Stop.TabIndex = 5;
+            this.button_Stop.Text = "Stop";
+            this.button_Stop.UseVisualStyleBackColor = true;
             // 
             // button_Listen
             // 
@@ -102,15 +80,39 @@
             this.button_Listen.TabIndex = 4;
             this.button_Listen.Text = "Listen";
             this.button_Listen.UseVisualStyleBackColor = true;
+            this.button_Listen.Click += new System.EventHandler(this.button_Listen_Click);
             // 
-            // button_Stop
+            // textBox_Port
             // 
-            this.button_Stop.Location = new System.Drawing.Point(399, 53);
-            this.button_Stop.Name = "button_Stop";
-            this.button_Stop.Size = new System.Drawing.Size(116, 27);
-            this.button_Stop.TabIndex = 5;
-            this.button_Stop.Text = "Stop";
-            this.button_Stop.UseVisualStyleBackColor = true;
+            this.textBox_Port.Location = new System.Drawing.Point(103, 53);
+            this.textBox_Port.Name = "textBox_Port";
+            this.textBox_Port.Size = new System.Drawing.Size(272, 25);
+            this.textBox_Port.TabIndex = 3;
+            // 
+            // label_Port
+            // 
+            this.label_Port.AutoSize = true;
+            this.label_Port.Location = new System.Drawing.Point(6, 56);
+            this.label_Port.Name = "label_Port";
+            this.label_Port.Size = new System.Drawing.Size(37, 19);
+            this.label_Port.TabIndex = 2;
+            this.label_Port.Text = "Port:";
+            // 
+            // textBox_IP_Address
+            // 
+            this.textBox_IP_Address.Location = new System.Drawing.Point(103, 20);
+            this.textBox_IP_Address.Name = "textBox_IP_Address";
+            this.textBox_IP_Address.Size = new System.Drawing.Size(272, 25);
+            this.textBox_IP_Address.TabIndex = 1;
+            // 
+            // label_IP_Address
+            // 
+            this.label_IP_Address.AutoSize = true;
+            this.label_IP_Address.Location = new System.Drawing.Point(6, 23);
+            this.label_IP_Address.Name = "label_IP_Address";
+            this.label_IP_Address.Size = new System.Drawing.Size(77, 19);
+            this.label_IP_Address.TabIndex = 0;
+            this.label_IP_Address.Text = "IP Address:";
             // 
             // groupBox_Log
             // 
@@ -159,7 +161,7 @@
             // 
             this.textBox_Notification.Location = new System.Drawing.Point(103, 26);
             this.textBox_Notification.Name = "textBox_Notification";
-            this.textBox_Notification.Size = new System.Drawing.Size(272, 27);
+            this.textBox_Notification.Size = new System.Drawing.Size(272, 25);
             this.textBox_Notification.TabIndex = 6;
             // 
             // label_Notification
@@ -167,15 +169,24 @@
             this.label_Notification.AutoSize = true;
             this.label_Notification.Location = new System.Drawing.Point(6, 29);
             this.label_Notification.Name = "label_Notification";
-            this.label_Notification.Size = new System.Drawing.Size(91, 20);
+            this.label_Notification.Size = new System.Drawing.Size(82, 19);
             this.label_Notification.TabIndex = 5;
             this.label_Notification.Text = "Notification:";
+            // 
+            // lbClients
+            // 
+            this.lbClients.FormattingEnabled = true;
+            this.lbClients.Location = new System.Drawing.Point(545, 27);
+            this.lbClients.Name = "lbClients";
+            this.lbClients.Size = new System.Drawing.Size(120, 433);
+            this.lbClients.TabIndex = 7;
             // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(545, 470);
+            this.ClientSize = new System.Drawing.Size(677, 470);
+            this.Controls.Add(this.lbClients);
             this.Controls.Add(this.groupBox_Broadcast);
             this.Controls.Add(this.groupBox_Log);
             this.Controls.Add(this.groupBox_Connection);
@@ -206,5 +217,6 @@
         private System.Windows.Forms.Button button_Broadcast;
         private System.Windows.Forms.TextBox textBox_Notification;
         private System.Windows.Forms.Label label_Notification;
+        private System.Windows.Forms.ListBox lbClients;
     }
 }
